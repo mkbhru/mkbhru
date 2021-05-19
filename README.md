@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">A passionate developer in india</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishkr3" alt="manishkr3" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishkr3" alt="manishkr3" /></a> </p>-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishkr3&show_icons=true&locale=en" alt="manishkr3" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishkr3&" alt="manishkr3" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishkr3&" alt="manishkr3" /></p>-->
